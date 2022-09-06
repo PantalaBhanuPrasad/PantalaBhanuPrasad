@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pantala Bhanu Prasad</h1>
-- 🔭 I’m currently pursuing BTECH in **CSE(AI&ML) at CMRIT,Hyderabad.**
+- 🔭 I’m currently pursuing BTECH in CSE(AI&ML) at CMRIT,Hyderabad.
 
 - 📫 How to reach me **pantalabhanuprasad@gmail.com**
 
